@@ -1,0 +1,20 @@
+.footer {
+  margin-top: 20px;
+}
+
+.footer-link {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+  }
+  
+.copyright {
+  margin-top: 20px;
+  text-align: center;
+  color: white;
+}
+
+  .list {
+    list-style: none;
+  }

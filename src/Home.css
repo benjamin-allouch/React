@@ -1,0 +1,40 @@
+.countdown {   
+  color: black;
+  font-weight: bold;
+  font-family: "Courgette", "Comic Sans MS", cursive, sans-serif;
+  border-style: hidden;
+  text-align: center;
+  max-width: 100%;
+}
+
+.countdown-title {
+  margin: 0%;
+  background-color: #C5DCB7;
+  padding: 40px;
+  text-transform: uppercase;
+}
+
+.countdown-date {
+  margin: 0%;
+  background-color: #973D55;
+  padding: 40px;
+}
+
+.countdown-timer {
+  margin: 0%;
+  background-color: #FFF0B6;
+  padding: 50px;
+  text-transform: uppercase;
+}
+
+
+
+
+
+
+
+
+
+
+
+
